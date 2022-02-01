@@ -199,7 +199,7 @@ public class teruletSzamitas extends javax.swing.JFrame implements ActionListene
         float oldal1;
         float oldal2;
         String parancs;
-   /*ez egy megjegyzes*/     
+   
         parancs=actionEvent.getActionCommand();
          if(parancs=="teruletTeglalap"){  
             oldal1=Float.valueOf(teglalapOldal1TF.getText());
