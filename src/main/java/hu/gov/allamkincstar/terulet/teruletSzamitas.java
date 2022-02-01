@@ -13,9 +13,7 @@ import java.awt.event.ActionListener;
  */
 public class teruletSzamitas extends javax.swing.JFrame implements ActionListener{
 
-    /**
-     * Creates new form teruletSzamitas
-     */
+    /* új form*/
     public teruletSzamitas() {
         initComponents();
         jButton1.addActionListener(this);
